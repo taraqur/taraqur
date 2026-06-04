@@ -1,98 +1,43 @@
-# Hi there 👋, I'm Md. Taraqur Rahman
+# Hi, I am MD. TARAQUR RAHMAN 👋
 
-<div align="center">
+Junior Frontend / MERN Stack Developer focused on building scalable, responsive, and user-centric web applications using React.js, Next.js, and TypeScript. Experienced in AI-assisted development workflows to optimize performance and write clean documentation.
 
-### 🚀 Aspiring Full Stack Web Developer
+## About Me
+- 🚀 completed a Web Developer Internship at Online Content Provider LTD (OCPL).
+- 🛠️ Deeply focused on component-based architecture, API-first thinking, and UI performance optimization.
+- 🎓 B.Sc. in Computer Science (CGPA 3.70) with a strong foundation in Software Engineering and Database Systems.
+- 💼 Open to Junior Frontend Developer, Junior MERN Stack, and Full-Stack Internship roles.
 
-Building modern web applications and solving real-world problems with code.
+### Tech Stack
 
-</div>
+### 🌐 Frontend & UI
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,redux,html,css,tailwind" alt="Frontend Stack" />
+</p>
 
----
+### 🗄️ Backend & Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Stack" />
+</p>
 
-## 👨‍💻 About Me
+### 🛠️ Tools & AI Workflow
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,postman,figma,vscode" alt="Tools" />
+</p>
 
-* 🌱 Currently learning **JavaScript, React, Node.js, Express.js & MongoDB**
-* 🏥 Building a **E-commerce Website**
-* 💡 Passionate about Web Development and Problem Solving
-* 🎯 Goal: Become a Professional Full Stack Developer
-* 📚 Learning something new every day
+## Featured Projects
 
----
+| Project | Live Demo | Codebase | Tech Stack | Key Highlights |
+| :--- | :--- | :--- | :--- | :--- |
+| **Driverfleet** | [Live](https://client-iota-henna.vercel.app) | [GitHub](https://github.com/taraqur/driverfleet-client.git) | Next.js, Node.js, MongoDB, BetterAuth | Car Rental Service with full CRUD, order tracking, and 35% faster lookup times. |
+| **Suncart** | [Live](https://assignment-8-seven-alpha.vercel.app) | [GitHub](https://github.com/taraqur/assignment-8.git) | Next.js, React, MongoDB, BetterAuth | E-Commerce platform with an optimized shopping cart; Lighthouse score improved from 68 to 91. |
+| **KeenKeeper** | [Live](https://visionary-clafoutis-0a0c97.netlify.app/) | [GitHub](https://github.com/taraqur/assignment-7.git) | React.js, Tailwind CSS, Netlify | Social Media tracking dashboard featuring advanced data sorting, filtering, and search. |
 
-## 🛠️ Tech Stack
+## AI-Assisted Workflow & Strengths
+I leverage tools like ChatGPT, Gemini, and Cursor to accelerate development loops, conduct AI-assisted debugging, write comprehensive test cases, and keep clean, up-to-date documentation.
 
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
----
-
-## 🚀 Featured Project
-
-### 🏥Driverfleet
-
-Features:
-Driverfleet- Premium Car Rental Service website client server
-Features:
-1.Full CRUD Operations
-2.JWT Auth with secure Local Storage
-3.BetterAuth and google authentication
-4.Role-based routing
-Tech Stack: React.js, Node.js, Express.js, MongoDB, BetterAuth, Tailwind CSS, Vercel
-
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taraqur\&show_icons=true\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=taraqur\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taraqur\&layout=compact\&theme=tokyonight)
-
----
-
-## 🎯 2026 Goals
-
-* Complete JavaScript Mastery
-* Learn React Deeply
-* Build Full Stack Applications
-* Complete Hospital Management System
-* Contribute to Open Source
-
----
-
-## 📫 Connect With Me
-
-* GitHub: https://github.com/taraqur
-
----
-
-<div align="center">
-
-### ⭐ Road to Success in My Hand ⭐
-
-*"Every expert was once a beginner."*
-
-</div>
+## Contact & Connect
+- **Location:** Cumilla, Bangladesh 📍
+- **LinkedIn:** www.linkedin.com/in/taraqur-rahman
+- **Portfolio:** https://personal-portfolio-vert-seven-36.vercel.app
+- **Email:** taraqur010@gmail.com 📧
